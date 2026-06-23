@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="Resolucion de conflictos">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#162a44"/><stop offset="1" stop-color="#07111f"/></linearGradient></defs>
+  <rect width="720" height="520" fill="url(#g)"/>
+  <circle cx="250" cy="210" r="76" fill="#f6f3ed" opacity=".8"/>
+  <circle cx="468" cy="210" r="76" fill="#d2b15d" opacity=".9"/>
+  <path d="M228 313c74-52 184-52 258 0" stroke="#f6f3ed" stroke-width="18" stroke-linecap="round" opacity=".8"/>
+  <path d="M150 378h420" stroke="#c9a24a" stroke-width="8"/>
+  <path d="M350 112v268" stroke="#fff" stroke-width="2" opacity=".18"/>
+</svg>

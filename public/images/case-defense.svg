@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="Defensa penal">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#132d48"/><stop offset="1" stop-color="#07111f"/></linearGradient></defs>
+  <rect width="720" height="520" fill="url(#g)"/>
+  <rect x="70" y="92" width="260" height="340" fill="#f6f3ed" opacity=".88"/>
+  <rect x="112" y="142" width="176" height="14" fill="#c9a24a"/>
+  <rect x="112" y="195" width="164" height="10" fill="#07111f" opacity=".35"/>
+  <rect x="112" y="232" width="138" height="10" fill="#07111f" opacity=".28"/>
+  <path d="M450 140h78v230h-78z" fill="#c9a24a" opacity=".8"/>
+  <path d="M390 370h197v46H390z" fill="#c9a24a"/>
+  <circle cx="492" cy="106" r="44" fill="#f6f3ed" opacity=".85"/>
+</svg>

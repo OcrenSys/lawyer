@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 840" role="img" aria-label="Abogado en traje formal">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1a334f"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="suit" x1="0" x2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#162a44"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="840" fill="url(#bg)"/>
+  <circle cx="350" cy="210" r="112" fill="#d8b58a"/>
+  <path d="M250 194c10-93 185-118 214 0 8-70-39-133-113-137-83-5-133 58-101 137z" fill="#2f241d"/>
+  <path d="M215 835c10-250 67-375 135-430h92c92 68 151 209 166 430z" fill="url(#suit)"/>
+  <path d="M318 405h88l-20 176h-46z" fill="#f6f3ed"/>
+  <path d="M290 420 350 840H206c18-188 44-332 84-420zM430 420l64 420h-142z" fill="#0b1c31"/>
+  <path d="M350 436 312 548l40 46 44-46z" fill="#c9a24a"/>
+  <path d="M350 840V594" stroke="#c9a24a" stroke-width="6" opacity=".7"/>
+  <path d="M104 790h492" stroke="#fff" stroke-width="2" opacity=".12"/>
+</svg>

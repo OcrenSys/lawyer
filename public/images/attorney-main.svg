@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650" role="img" aria-label="Dr Alejandro Cardenas">
+  <rect width="520" height="650" fill="#0b1c31"/>
+  <rect x="36" y="36" width="448" height="578" fill="#132d48"/>
+  <circle cx="260" cy="184" r="82" fill="#d8b58a"/>
+  <path d="M184 178c16-91 138-101 154-1 8-60-28-106-80-108-56-2-91 43-74 109z" fill="#2f241d"/>
+  <path d="M110 650c20-188 72-305 148-357h44c74 50 126 169 148 357z" fill="#07111f"/>
+  <path d="M230 303h62l-16 140h-30z" fill="#f6f3ed"/>
+  <path d="M260 450v200" stroke="#c9a24a" stroke-width="5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650" role="img" aria-label="Lic Mariana Solorzano">
+  <rect width="520" height="650" fill="#f6f3ed"/>
+  <rect x="0" y="0" width="520" height="210" fill="#0b1c31"/>
+  <circle cx="260" cy="190" r="78" fill="#c99672"/>
+  <path d="M180 198c5-94 52-134 95-128 60 7 87 59 70 134-46-36-112-39-165-6z" fill="#2f241d"/>
+  <path d="M108 650c22-192 74-304 152-350h36c78 47 130 159 153 350z" fill="#10243a"/>
+  <path d="M232 310h58l-12 134h-32z" fill="#fff"/>
+  <path d="M260 450v200" stroke="#c9a24a" stroke-width="5"/>
+</svg>

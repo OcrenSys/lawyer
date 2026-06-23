@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650" role="img" aria-label="Lic Rodrigo Mena">
+  <rect width="520" height="650" fill="#e7e3da"/>
+  <rect x="68" y="0" width="384" height="650" fill="#10243a"/>
+  <circle cx="260" cy="188" r="80" fill="#d3a77c"/>
+  <path d="M184 176c16-82 133-95 153-2 4-63-33-111-82-113-58-2-90 45-71 115z" fill="#36281f"/>
+  <path d="M104 650c20-189 73-303 151-352h45c78 50 130 164 151 352z" fill="#07111f"/>
+  <path d="M229 308h64l-17 145h-30z" fill="#f6f3ed"/>
+  <path d="M260 454v196" stroke="#c9a24a" stroke-width="5"/>
+</svg>

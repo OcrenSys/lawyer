@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Edificio institucional sobrio">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#12253c"/>
+      <stop offset="0.55" stop-color="#0b1c31"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#8b6a25"/>
+      <stop offset="1" stop-color="#d5b15c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <path d="M0 650 1600 520v480H0z" fill="#07111f" opacity=".55"/>
+  <g opacity=".32">
+    <rect x="118" y="216" width="94" height="520" fill="#fff"/>
+    <rect x="270" y="164" width="112" height="594" fill="#fff"/>
+    <rect x="452" y="245" width="84" height="492" fill="#fff"/>
+    <rect x="1048" y="152" width="122" height="616" fill="#fff"/>
+    <rect x="1236" y="236" width="86" height="522" fill="#fff"/>
+    <rect x="1382" y="190" width="105" height="568" fill="#fff"/>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="4" opacity=".72">
+    <path d="M670 260h260l86 80H584z"/>
+    <path d="M624 340h352v422H624z"/>
+    <path d="M662 388h276M662 462h276M662 536h276M662 610h276"/>
+    <path d="M710 340v422M800 340v422M890 340v422"/>
+  </g>
+  <circle cx="1250" cy="170" r="190" fill="#c9a24a" opacity=".1"/>
+</svg>
