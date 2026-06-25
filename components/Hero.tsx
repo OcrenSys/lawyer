@@ -37,7 +37,7 @@ export function Hero() {
               href={contactInfo.whatsapp}
             >
               Hablar por WhatsApp
-              <MessageCircle className="h-4 w-4" aria-hidden />
+              <MessageCircle className="h-4 w-4 mt-2 mx-2" aria-hidden />
             </a>
           </div>
           <div className="mt-12 flex items-center gap-5 text-sm text-white/65">

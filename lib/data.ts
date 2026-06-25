@@ -15,11 +15,11 @@ export const lawyerPhoto = "/images/lawyer-profile-photo.png";
 export const JudicialComplexCenter = "/images/complejo_judicial.jpg";
 
 export const contactInfo = {
-  phone: "+505 0000 0000",
-  phoneHref: "tel:+50500000000",
+  phone: "+505 8516 4382",
+  phoneHref: "tel:+50585164382",
   email: "correo@pendiente.com",
   emailHref: "mailto:correo@pendiente.com",
-  whatsapp: "https://wa.me/50500000000",
+  whatsapp: "https://wa.me/50585164382",
   location: "Managua, Nicaragua",
   schedule: "Horario por confirmar"
 };
@@ -89,20 +89,35 @@ export const cases = [
   {
     title: "Procesos juridicos complejos",
     category: "Analisis y estrategia",
-    image: lawyerPhoto,
-    text: "Revision tecnica de antecedentes, riesgos y rutas legales antes de tomar decisiones."
+    image: "/images/strategy-office.png",
+    position: {
+      x: "100%",
+      y: "100%",
+    },
+      zoom: 1.8,
+    text: "Revision tecnica..."
   },
   {
     title: "Recursos e impugnaciones",
     category: "Apelacion y casacion",
-    image: lawyerPhoto,
-    text: "Preparacion de argumentos juridicos para la defensa de derechos en instancias superiores."
+    image: "/images/strategy-documents.png",
+    position: {
+      x: "34%",
+      y: "50%",
+    },
+    zoom: 1,
+    text: "Preparacion..."
   },
   {
     title: "Representacion de personas y empresas",
     category: "Acompanamiento legal",
-    image: lawyerPhoto,
-    text: "Asesoria clara y seguimiento profesional para asuntos legales de distinta naturaleza."
+    image: "/images/strategy-court.png",
+    position: {
+      x: "50%",
+      y: "100%",
+    },
+    zoom: 1.5,
+    text: "Asesoria..."
   }
 ];
 

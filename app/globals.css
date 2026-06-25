@@ -34,3 +34,28 @@ body {
 .premium-focus {
   @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold-500;
 }
+
+.whatsapp-premium-pulse {
+  animation: whatsapp-premium-pulse 3.6s ease-out infinite;
+  will-change: transform, opacity;
+}
+
+@keyframes whatsapp-premium-pulse {
+  0%,
+  68%,
+  100% {
+    opacity: 0.36;
+    transform: scale(1);
+  }
+
+  36% {
+    opacity: 0;
+    transform: scale(1.28);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .whatsapp-premium-pulse {
+    animation: none;
+  }
+}

@@ -1,4 +1,4 @@
-import { CalendarClock, Facebook, Instagram, Linkedin, Mail, Menu, MessageCircle, Phone } from "lucide-react";
+import { CalendarClock, Facebook, Instagram, Linkedin, Mail, Menu, Phone } from "lucide-react";
 import { contactInfo, navItems } from "@/lib/data";
 
 export function Header() {
@@ -66,13 +66,6 @@ export function Header() {
               href="#contacto"
             >
               Solicitar consulta
-            </a>
-            <a
-              aria-label="Hablar por WhatsApp"
-              className="premium-focus grid h-11 w-11 place-items-center border border-white/15 text-white transition hover:border-gold-500 hover:text-gold-500"
-              href={contactInfo.whatsapp}
-            >
-              <MessageCircle className="h-5 w-5" aria-hidden />
             </a>
             <button
               aria-label="Abrir menu"
